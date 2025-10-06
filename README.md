@@ -10,6 +10,6 @@ The project integrates **Flask** for web application development and a **machine
 More information about the course can be found [here](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer).
 
 Certificate for the course:
-Verified certificate for Developing AI Applications with Python and Flask on Coursera — View Certificate [here]([https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer](https://coursera.org/share/4d5c069b3c5955574a47f7007599043e)).
+Verified certificate for Developing AI Applications with Python and Flask on Coursera — View Certificate [here](https://coursera.org/share/4d5c069b3c5955574a47f7007599043e).
  
 
